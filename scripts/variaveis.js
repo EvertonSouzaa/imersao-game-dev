@@ -6,6 +6,7 @@ let imagemInimigoVoador;
 let imagemGameOver;
 let imagemTelaInicial;
 let fonteTelaInicial;
+let imagemVida;
 
 let cenaAtual = 'telaInicial';
 let cenas;
@@ -22,6 +23,9 @@ let inimigo;
 let inimigoGrande;
 let inimigoVoador;
 let pontuacao;
+let vida;
+
+let fita;
 
 
 
